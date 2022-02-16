@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: "Episode 6: Element Production (Fusion)\u2014Part 1"
 uid: 85a9cee2-0f36-49d9-373c-49ae4851702c

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: 'Episode 3: Early Chemical Evolution'
 uid: e48836d5-9623-019e-3a68-94b36c1ee1c5
