@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: SupplementalResourceSection
+parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 resourcetype: Image
 title: Anna.jpg
 uid: ea6efa42-4976-ad67-948c-e28ddce87dd4

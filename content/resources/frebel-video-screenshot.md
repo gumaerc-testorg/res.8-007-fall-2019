@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: f0049b60-c41d-eba9-6503-99cea78e8974
 resourcetype: Image
 title: Chile telescope
 uid: c093ea2a-6a32-6d6a-5573-69d0c9247b78
