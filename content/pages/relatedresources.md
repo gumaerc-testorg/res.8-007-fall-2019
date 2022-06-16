@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains links to related resources of interest.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Related Resources

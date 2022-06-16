@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/c093ea2a6a326d6a557369d0c9247b78_Frebel-video-screenshot.PNG
+file: /courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/c093ea2a6a326d6a557369d0c9247b78_Frebel-video-screenshot.PNG
 file_type: image/png
 image_metadata:
   caption: "Astronomers search for answers to some of humanity\u2019s most fundamental\

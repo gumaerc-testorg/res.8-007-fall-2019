@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Professor Anna Frebel responds to questions about her
+  experience creating and recording the short video course Cosmic Origin of the Chemical
+  Elements '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -30,7 +33,7 @@ That might seem somewhat pessimistic, but it's really an opportunity to open you
 
 **OCW:** Everybody wonders about the stars. And they're so visible and so beautiful that it feels very accessible.
 
-![The Milky Way poised above an observatory.]({{< resource_file c093ea2a-6a32-6d6a-5573-69d0c9247b78 >}})
+{{< resource c093ea2a-6a32-6d6a-5573-69d0c9247b78 >}}
 
 Astronomers search for answers to some of humanity’s most fundamental questions. (Image from Prof. Frebel's video series.)
 
