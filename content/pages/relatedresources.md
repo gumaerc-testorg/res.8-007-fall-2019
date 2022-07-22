@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains links to related resources of interest.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Related Resources
 uid: 319e2701-7754-aff6-c952-fe35e37405ac
 ---
