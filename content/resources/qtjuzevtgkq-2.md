@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/dda98fa8bfc9516895e6a96e12d3c0af_QTJuzevTGkQ.vtt
+file_size: 5530
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
