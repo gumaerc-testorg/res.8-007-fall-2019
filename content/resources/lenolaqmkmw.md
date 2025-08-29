@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/b7cc6181bedae7a33a786c9e20e506e4_lEnolaQmkMw.srt
+file: /ol-ocw-studio-app/courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/b7cc6181bedae7a33a786c9e20e506e4_lEnolaQmkMw.srt
 file_size: 8470
 file_type: application/x-subrip
 learning_resource_types: []
