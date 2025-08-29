@@ -3,37 +3,36 @@ content_type: page
 description: 'In this section, Professor Anna Frebel responds to questions about her
   experience creating and recording the short video course Cosmic Origin of the Chemical
   Elements '
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: f0049b60-c41d-eba9-6503-99cea78e8974
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-On this page and in the episode of the _Chalk Radio_ podcast embedded below, Professor Anna Frebel describes her drive to teach the general public about the history of the cosmos.
+On this page and in the episode of the *Chalk Radio* podcast embedded below, Professor Anna Frebel describes her drive to teach the general public about the history of the cosmos.
 
 {{< quote "Information is power, but it's also wonder. The more you know, the more you know that you don't know anything." "— Prof. Anna Frebel" >}}
 
-**OCW:** Your book, _Searching for the Oldest Stars_, is aimed at a lay audience, and it seems to be as much about science communication as about the science itself. Why is it important for those of us who are not in your field to be able to understand this work?
+**OCW:** Your book, *Searching for the Oldest Stars*, is aimed at a lay audience, and it seems to be as much about science communication as about the science itself. Why is it important for those of us who are not in your field to be able to understand this work?
 
 **Anna Frebel:** Well, these times really speak for themselves. People need to have more scientific literacy—and the wonder that goes along with it. I think that's the forgotten point, that so much wonder comes along with knowledge. Information is power, but it's also wonder. The more you know, the more you know that you don't know anything.
 
 That might seem somewhat pessimistic, but it's really an opportunity to open yourself up. People have always asked about the cosmos. It's really, really important as a scientist to make your work accessible. Astronomy is often called a gateway science because the concepts are relatively easy to explain. I really enjoy talking to people about science and helping them to see what’s so fascinating about the cosmos.
 
-{{< div-with-class "reveal1">}}
+{{< div-with-class "reveal1" >}}
 
-› _Read More/Read Less_
+› *Read More/Read Less*
 
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
+{{< /div-with-class >}}{{< div-with-class "toggle1" >}}
 
 **OCW:** Everybody wonders about the stars. And they're so visible and so beautiful that it feels very accessible.
 
-{{< resource c093ea2a-6a32-6d6a-5573-69d0c9247b78 >}}
+{{< resource uuid="c093ea2a-6a32-6d6a-5573-69d0c9247b78" >}}
 
 Astronomers search for answers to some of humanity’s most fundamental questions. (Image from Prof. Frebel's video series.)
 
@@ -55,4 +54,4 @@ The same applies to the videos. If you like one and you want to go on to the nex
 
 {{< /div-with-class >}}
 
-{{< simplecast 2665aaa6-24d0-41f3-a077-dea5d8e0e3ac >}}
+{{< resource uuid="1bccd6d1-87f4-468a-8b74-6ce9bae136c9" >}}
